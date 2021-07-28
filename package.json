@@ -1,0 +1,34 @@
+{
+  "name": "tutorial-hello-serenity-js",
+  "version": "1.0.0",
+  "description": "Hello, Serenity/JS!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/hello-serenity.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serenity-js/tutorial-hello-serenity-js.git"
+  },
+  "author": {
+    "name": "Jan Molak",
+    "email": "jan.molak@serenity.io",
+    "url": "https://janmolak.com"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/serenity-js/tutorial-hello-serenity-js/issues"
+  },
+  "homepage": "https://serenity-js.org",
+  "devDependencies": {
+    "@serenity-js/console-reporter": "^2.29.8",
+    "@serenity-js/core": "^2.29.8",
+    "@types/node": "^16.4.6",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  },
+  "engines": {
+    "node": "^12 || ^14 || ^16",
+    "npm": "^6 || ^7"
+  }
+}
