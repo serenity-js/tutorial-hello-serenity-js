@@ -1,4 +1,4 @@
-import { actorCalled, configure, Log } from '@serenity-js/core'    // 1 
+import { actorCalled, configure, Log } from '@serenity-js/core'
 import { ConsoleReporter } from '@serenity-js/console-reporter'
 
 configure({

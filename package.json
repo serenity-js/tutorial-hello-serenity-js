@@ -4,7 +4,7 @@
   "description": "Hello, Serenity/JS!",
   "main": "index.js",
   "scripts": {
-    "test": "ts-node src/hello-serenity.ts"
+    "test": "ts-node spec/hello-serenity.ts"
   },
   "repository": {
     "type": "git",
