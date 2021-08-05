@@ -2,5 +2,12 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "bump"
+  "rangeStrategy": "bump",
+  "packageRules": [
+    {
+      "packagePatterns": ["^@serenity-js"],
+      "groupName": "Serenity/JS",
+      "automerge": true
+    }
+  ]
 }
