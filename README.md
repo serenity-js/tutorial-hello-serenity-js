@@ -11,7 +11,7 @@ of modern full-stack applications faster, more collaborative and easier to scale
 
 **Find out more at [serenity-js.org](https://serenity-js.org)!**
 
-This repository contains code samples for the ["Hello, Serenity/JS"](https://serenity-js.org/handbook/thinking-in-serenity-js/test-runners.html) tutorial.
+This repository contains code samples for the ["Hello, Serenity/JS!"](https://serenity-js.org/handbook/thinking-in-serenity-js/test-runners.html) tutorial.
 
 ----
 
