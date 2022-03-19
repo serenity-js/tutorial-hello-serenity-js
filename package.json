@@ -21,8 +21,8 @@
   },
   "homepage": "https://serenity-js.org",
   "devDependencies": {
-    "@serenity-js/console-reporter": "^2.33.2",
-    "@serenity-js/core": "^2.33.2",
+    "@serenity-js/console-reporter": "^2.33.3",
+    "@serenity-js/core": "^2.33.3",
     "@types/node": "^16.4.6",
     "ts-node": "^10.2.1",
     "typescript": "^4.3.5"
